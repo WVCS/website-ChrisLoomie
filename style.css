@@ -55,7 +55,7 @@ li a:hover{
 li a {
   padding: 45px;
   font-size: 120%;
-  color: white;
+  color: red;
   border: solid;
   text-align: center;
 } 
