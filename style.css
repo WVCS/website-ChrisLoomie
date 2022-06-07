@@ -1,3 +1,65 @@
-body {
-
+ <style>
+        body{
+  background-color:#658E9C
 }
+h3{
+  color:#F0EBD8;
+  Font-size:500%;
+  letter-spacing:5px;
+  text-decoration-line:underline; 
+}
+p{
+  color:#F0EBD8;
+  font-size:300%;
+  Letter-spacing:5px;
+}
+img{
+  width:50%;
+  border:solid #0D1321 10px;
+}
+iframe{
+  border:solid
+}
+h2{
+  color: white;
+  font-size: 300%;
+  font-family: "Lucida Handwriting";
+   text-decoration-line: overline;
+  text-decoration-color: white;
+  text-align: center;
+}
+img{
+  width: 35%;
+ height: 900px;
+  border-radius: 90%;
+    border: solid;
+  border-color: white;
+  
+}
+p{
+  font-size: 300%;
+    color: white;
+  text-decoration: underline;
+}
+ul{
+  list-style-type: none;
+  width: 150%;
+  text-align: center;
+  
+}
+li{
+  Float: left;
+}
+li a:hover{
+  background-color: white;
+}
+li a {
+  padding: 45px;
+  font-size: 120%;
+  color: white;
+  border: solid;
+  text-align: center;
+} 
+
+
+      </style>
